@@ -67,3 +67,5 @@ Les fichiers `.json` manipulés contiennent **tous vos mots de passe en clair**.
 *   Ne lancez jamais ce script sur une machine partagée ou compromise.
 *   Supprimez les fichiers `.json` (entrée et sortie) immédiatement après l'importation.
 *   Sur Linux, utilisez la commande `shred` ou `rm` de manière sécurisée si possible.
+
+Licence : MIT (Open Source).
